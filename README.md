@@ -2,6 +2,8 @@
 
 Visualize the point cloud `pcd`, `ply` files in a folder and support simple play with keyboard.
 
+![demo](img/ply_vis_demo.gif)
+
 ### Run Instruction
 
 Simply call `main.py` with following arguments:
